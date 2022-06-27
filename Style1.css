@@ -1,0 +1,216 @@
+h1 {
+ 	color: red;
+	font-family: "Helvetica";
+  
+}
+h2 {
+ 	color: #f98e1d;
+	font-size:32;
+	font-family: "Staatliches";
+  
+}
+h3 {
+ 	color: red;
+	font-family: "Helvetica";
+  
+}
+h4 {
+ 	color: red;
+	font-family: "Helvetica";
+  
+}
+h5 {
+ 	color: red;
+	font-family: "Helvetica";
+  
+}
+h6 {
+ 	color: red; 
+	font-family: "Helvetica";
+  
+}
+body {
+  color: white;
+  background-color: #23425F;
+font-family: 'Roboto Slab', serif;
+font-size:25;
+  
+}
+img {
+}
+
+.gbody {
+  color: #;
+  font-family: 'Roboto Slab', serif; 
+  text-align: justify;
+}
+
+#PFP {
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.Front-IMG
+{
+	border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+max-width: 100%;
+height: auto;
+	object-fit: cover;
+	object-position: top right
+	
+	
+}
+#TL {
+float:left; 
+	max-width:30%; 
+	height: 30px;
+	overflow-x:hidden; 
+	font-family: 'Roboto Slab', serif; 
+	color: #384D48;
+	padding: 14px 20px;
+	text-decoration: none;
+border-right: 3px solid black;
+
+}
+
+#TC {
+	float:center; 	
+	font-family: 'Roboto Slab', serif; 
+	color: #384D48;
+	text-decoration: none;
+ 
+}
+
+#TR {
+	float:right; 
+	max-width:30%; 
+	overflow-x:hidden; 
+	font-family: 'Roboto Slab', serif; 
+	color: #384D48;
+		padding: 14px 20px;
+	text-decoration: none;
+border-left: 3px solid black;
+ 
+}
+#Center-menu{
+	text-align: center;
+}
+
+#top-menu { 
+	border: 3px solid black;
+	border-radius: 20px;
+	background-color: white ;
+	font-family: 'Roboto Slab', serif;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	 
+	
+
+}
+#left-menu {
+	
+}
+#Title-Logan{
+	text-align: center;
+}
+
+#PFP-box{
+	
+}
+
+#Intro-box {
+	border: 1px solid black;
+	margin: 1rem;
+	padding: 0.5rem 0.5rem;
+	text-align: center;
+	border-radius: 25px;
+	background: white;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#LandH-box {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+  border-radius: 25px;
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+}
+
+#link-box {
+ float:center; 
+	max-width:100%; 
+	overflow-x:hidden; 
+	font-family: 'Roboto Slab', serif; 
+	color: #ECECEC;
+	text-decoration: none;
+  
+  
+}
+#Links{
+ 	max-width:100%; 
+	overflow-x:hidden; 
+	font-family: 'Roboto Slab', serif; 
+	color: white;
+	text-decoration: none;
+	
+}
+
+#hobbies-box {
+  display: inline-block;
+  padding: 2rem 2rem;
+  vertical-align: left
+  ;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#BL-box {
+  display: inline-block;
+  padding: 2rem 2rem;
+  vertical-align: left
+  ;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Bucket-List{
+	float: right;
+	
+	}
+	
+	.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  max-width: 500px;
+  height: 15px;
+  border-radius: 5px;   
+  background:#ffffff ;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%; 
+  background: #f98e1d;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #f98e1d;
+  cursor: pointer;
+}
